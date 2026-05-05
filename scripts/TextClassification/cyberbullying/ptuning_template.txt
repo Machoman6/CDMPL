@@ -1,0 +1,5 @@
+{"soft": "<soft>"} {"placeholder": "text_a"}{"soft": "<soft>"}{"mask": "<mask>"}
+{"soft": "<soft>"} {"placeholder": "text_a"}{"placeholder": "text_b"}{"soft": "<soft>"}{"mask": "<mask>"}
+{"soft": "<soft>"} {"mask": "<mask>"}{"soft": "<soft>"} {"placeholder": "text_a"}{"soft": "<soft>"}{"placeholder": "text_b"}
+{"soft": "<soft>"} {"placeholder": "text_a"}{"soft": "<soft>"} {"mask": "<mask>"}
+{"soft": "<soft>"} {"placeholder": "text_a"}{"soft": "<soft>"} {"mask": "<mask>"}{"soft": "<soft>"}

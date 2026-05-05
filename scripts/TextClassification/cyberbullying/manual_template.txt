@@ -1,0 +1,9 @@
+请根据事件描述（{"placeholder": "text_a"}）及其每小时恶意评论数序列（{"placeholder": "text_b"}），判断该事件属于“网暴事件”还是“非网暴事件”，并将结果填写在{"mask"}处。
+ 请根据事件的文本描述和每小时恶意评论数序列，判断该事件属于网暴事件还是非网暴事件，并将结果填在{"mask"}处。事件描述：{"placeholder": "text_a"}。事件每小时恶意评论数序列：{"placeholder": "text_b"}。
+事件描述为{"placeholder": "text_a"}，其每小时恶意评论数序列为{"placeholder": "text_b"}，该事件属于{"mask"}。
+ 这是一条关于{"mask"}的事件描述：{"placeholder": "text_a"}，请根据描述判断该事件属于网暴事件还是正常事件
+ 事件描述：{"placeholder": "text_a"}，该事件的性质是：{"mask"}（选项：网暴事件/正常事件）
+ 以下是一条事件描述：{"placeholder": "text_a"}，请根据上述描述判断该事件属于网暴事件还是非网暴事件，并将正确的类别填入{"mask"}处
+ 事件描述：{"placeholder": "text_a"}，该事件的性质是：{"mask"}（选项：网暴事件/正常事件）
+ 以下是一条事件的背景描述{"placeholder": "text_a"}和时序信息描述{"placeholder": "text_b"}，请根据上述描述判断该事件属于网暴事件还是非网暴事件，并将正确的类别填入{"mask"}处
+ 以下是一条事件的每小时恶意评论数数值序列{"placeholder": "text_a"}，请根据上述数值序列判断该事件属于网暴事件还是非网暴事件，并将正确的类别填入{"mask"}处
