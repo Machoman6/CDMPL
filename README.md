@@ -157,9 +157,9 @@ Replace the placeholder below with verified bibliographic information before pub
 ```bibtex
 @article{cdmpl,
   title   = {Chinese Cyberbullying Detection via Multi-Feature Prompt Learning},
-  author  = {TODO},
-  journal = {TODO},
-  year    = {TODO}
+  author  = {Xin Zou and Yi Zhu and Ye Wang and Ci Lei},
+  journal = {Intelligent Data Analysis},
+  year    = {2026}
 }
 ```
 
